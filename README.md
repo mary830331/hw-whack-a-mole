@@ -1,4 +1,4 @@
-https://mary830331.github.io/hw-whack-a-mole/<br>
-夢遊先生番外篇-射擊遊戲<br>
-用 jQuery 打造的射擊遊戲，夢遊先生不小心闖入黑道的巢穴。<br>幫他射擊趕走黑道們幫助夢遊先生逃離黑道的巢穴!<br>
-![GITHUB](https://github.com/mary830331/mary830331.github.io/blob/main/images/mr-snoozleberg.png)
+https://mary830331.github.io/hw-color-vision-examination/<br>
+色盲檢測-翻牌遊戲<br>
+用 jQuery 打造的翻牌遊戲，翻出相對應的色盲卡與符號，總共有兩種難度等級，如錯誤太多會提醒可以去做個色盲檢查。<br>
+![GITHUB](https://github.com/mary830331/mary830331.github.io/blob/main/images/color-vision-examination.gif)
